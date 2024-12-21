@@ -57,12 +57,7 @@ This project is a comprehensive game-selling platform designed to bring together
    cd ../backend
    npm install
    ```
-4. Set up environment variables:
-   - Create a `.env` file in the `backend` directory with the following details:
-     ```env
-     MONGO_URI=your-mongodb-uri
-     ```
-5. Start the application:
+4. Start the application:
    - Start the backend:
      ```bash
      cd backend
